@@ -112,6 +112,9 @@ header{
 .nav-links li{
     margin:30px auto ;
 }
+header{
+    height: 60vh;
+}
 }
 
 /*------Services-------*/
